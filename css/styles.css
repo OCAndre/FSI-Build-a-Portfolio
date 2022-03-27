@@ -1,0 +1,6 @@
+body {background-color:bisque;color:crimson; cursor: crosshair}
+h1 {line-height: 2em;border-bottom-style: double; text-align: center;color:black}
+.image {border:dotted; border-radius: 10px; text-align: center; border-color:blueviolet}
+.about {border-style: dashed; border-radius: 10px; font-family:Arial, Helvetica, sans-serif}
+h3 {border-bottom-style:solid}
+
